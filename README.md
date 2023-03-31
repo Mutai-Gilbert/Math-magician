@@ -37,7 +37,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📗 Table of Contents
 
-- [� Table of Contents](#-table-of-contents)
+- [📗 Table of Contents](#-table-of-contents)
 - [📖 \[Math Magician\]](#-math-magician)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
@@ -50,8 +50,7 @@ After you're finished please remove all the comments and instructions!
     - [Usage](#usage)
     - [Run tests](#run-tests)
     - [Deployment](#deployment)
-  - [👥 Authors ](#-authors-)
-  - [🔭 Future Features ](#-future-features-)
+  - [� Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
@@ -125,7 +124,7 @@ A new developer can get the project from my Github repo link i shall provide.
 To get a local copy up and running, follow these steps.
 
 
-go to https://github.com/stephenkati/Math-magician.git
+go to https://github.com/Mutai-Gilbert/-math-magicians-website
 
 clone or download the project
 
@@ -145,7 +144,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-run git clone https://github.com/stephenkati/Math-magician.git
+run git clone https://github.com/Mutai-Gilbert/-math-magicians-website
 
 or
 
@@ -195,14 +194,13 @@ The project is not yet deployed.
 
 <!-- AUTHOR -->
 
-## 👥 Authors <a name="authors"></a>
+👤 **Author1**
 
+👤 **Gilbert Mutai**
 
-👤 **Stephen Katuli**
-
-- GitHub: [@githubhandle](https://github.com/stephenkati)
-- Twitter: [@twitterhandle](https://twitter.com/Stephen57913145)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/stephen-katuli-a92752251/)
+- GitHub: [@githubhandle](https://github.com/Mutai-Gilbert)
+- Twitter: [@twitterhandle](https://twitter.com/@nerdmutai)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mutai-gilbert-2a5a42137/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
